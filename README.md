@@ -5,4 +5,4 @@ An age estimation solution that:
 
 [The implementation](age_estimation.py) was prepared by making use of the python machine learning library: [PyTorch](pytorch.org).
 
-[The report file](Report.pdf) depicts the usage of the deep learning methods by explaining the method and the evaluation.
+[The report file](Report.pdf) depicts the usage of the deep learning on the given problem by explaining the method and the evaluation.
